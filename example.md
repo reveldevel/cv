@@ -1,9 +1,26 @@
+<title> this is the title
+
+**how @reveldevel learned to use github**
+
+</title>
+
+
+//Automatically generate _table of contents_ by checking the option here: `Settings > Format > Markdown`.
+
+
+## why is this happening?
+### H3 header
+#### H4 Header
+##### H5 Header
+###### H6 Header
 
 
 
 
-# Markdown Reference
-Automatically generate _table of contents_ by checking the option here: `Settings > Format > Markdown`.
+
+
+># Markdown Reference
+>Automatically generate _table of contents_ by checking the option here: `Settings > Format > Markdown`.
 
 
 ## H2 Header
