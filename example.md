@@ -1,5 +1,11 @@
+<title> this is the title
+
 # how @reveldevel learned to use github
-Automatically generate _table of contents_ by checking the option here: `Settings > Format > Markdown`.
+
+</title>
+
+
+//Automatically generate _table of contents_ by checking the option here: `Settings > Format > Markdown`.
 
 
 ## H2 Header
